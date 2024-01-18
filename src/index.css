@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.bgcontainer {
+  background-image: url("https://c1.wallpaperflare.com/preview/116/24/34/cook-healthy-food-eat.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+}
